@@ -1,0 +1,6 @@
+[submodule "resistor_color_calculator"]
+	path = resistor_color_calculator
+	url = https://github.com/willCaleb/resistor_color_calculator.git
+[submodule "snail"]
+	path = snail
+	url = https://github.com/willCaleb/snail.git
